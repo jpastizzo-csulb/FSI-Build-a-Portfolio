@@ -1,0 +1,26 @@
+body{background-color: rgb(111, 170, 238);}
+h1{
+    text-align:center;
+    font-family:sans-serif;
+    color: rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    font-family:sans-serif;
+    color:rgb(35, 39, 43)
+}
+h3{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+img{
+width: 60%;
+    border-radius: 30px;
+width: 500px;}
+p{
+    font-family: sans-serif;
+    color:rgb(35, 39, 43)
+}
+ul{
+    color:rgb(35, 39, 43)
+}
